@@ -1,0 +1,19 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  background: #fff9ed;
+  color: #503c17;
+  margin: 0;
+}
+
+.top-bar {
+  background: #f7c948;
+  text-align: center;
+  color: #503c17;
+  font-weight: bold;
+  padding: 10px 0;
+  font-size: 1.05em;
+  letter-spacing: 0.04em;
+  box-shadow: 0 1px 8px rgba(0,0,0,.04);
+}
+
+/* ... paste all your CSS here ... */
